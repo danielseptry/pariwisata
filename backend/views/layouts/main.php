@@ -26,7 +26,7 @@ AppAsset::register($this);
 <?php $this->beginBody() ?>
 
 <div class="wrap">
-     <?php
+    <?php
     NavBar::begin([
         'brandLabel' => 'Pariwisata Sumatera Utara',
         'brandUrl' => Yii::$app->homeUrl,

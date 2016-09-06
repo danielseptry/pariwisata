@@ -6,7 +6,7 @@ https://github.com/danielseptry/pariwisata.gituse Yii;
 use yii\base\Model;
 
 /**
-  * ContactForm is the model behind the contact form.
+ * ContactForm is the model behind the contact form.
  */
 class ContactForm extends Model
 {

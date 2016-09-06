@@ -18,7 +18,7 @@ class TempatSearch extends Tempat
     public function rules()
     {
         return [
-            [['id'], 'integ er'],
+            [['id'], 'integer'],
             [['nama_tempat', 'mlat', 'mlong', 'gambar', 'deskripsi'], 'safe'],
         ];
     }

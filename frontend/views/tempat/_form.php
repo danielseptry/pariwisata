@@ -8,7 +8,7 @@ use yii\widgets\ActiveForm;
 /* @var $form yii\widgets\ActiveForm */
 ?>
 
- <div class="tempat-form">
+<div class="tempat-form">
 
     <?php $form = ActiveForm::begin(); ?>
 

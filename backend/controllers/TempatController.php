@@ -3,7 +3,7 @@
 namespace backend\controllers;
 
 use Yii;
-use backend\models\Tempat;
+use backend\models\Te mpat;
 use backend\models\TempatSearch;
 use yii\web\Controller;
 use yii\web\NotFoundHttpException;

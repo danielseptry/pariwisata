@@ -2,7 +2,7 @@
 
 namespace frontend\models;
 
- use Yii;
+https://github.com/danielseptry/pariwisata.gituse Yii;
 use yii\base\Model;
 
 /**

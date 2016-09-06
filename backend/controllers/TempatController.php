@@ -17,7 +17,7 @@ class TempatController extends Controller
     /**
      * @inheritdoc
      */
-    public function behaviors( )
+    public function behaviors()
     {
         return [
             'verbs' => [

@@ -14,7 +14,7 @@ use Yii;
  * @property string $gambar
  * @property string $deskripsi
  */
-class Tempat extends \yii\db\ActiveRecord
+ class Tempat extends \yii\db\ActiveRecord
 {
     /**
      * @inheritdoc

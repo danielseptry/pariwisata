@@ -2,7 +2,7 @@
 
 namespace frontend\models;
 
-use Yii ;
+use Yii;
 
 /**
  * This is the model class for table "tempat".

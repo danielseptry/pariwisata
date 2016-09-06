@@ -3,7 +3,7 @@
 namespace frontend\models;
 
 https://github.com/danielseptry/pariwisata.gituse Yii;
- use yii\base\Model;
+use yii\base\Model;
 
 /**
  * ContactForm is the model behind the contact form.

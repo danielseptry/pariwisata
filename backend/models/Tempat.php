@@ -21,7 +21,7 @@ class Tempat extends \yii\db\ActiveRecord
      */
     public static function tableName()
     {
-        return ' tempat';
+        return 'tempat';
     }
 
     /**

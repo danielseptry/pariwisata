@@ -1,0 +1,27 @@
+Proyek 1 menggunakan YII framework
+Jaman sekarang tidak banyak masyarakat yang mengetahui tentang berbagai macam wisata dan kebudayaan masing-masing daerah terutama pariwisata sumatera utara.  Dikarenakan kurangnya informasi yang memadai atau informasi dari lingkungan sekitar. Dan dari situ terciptanya sebuah ide atau pikiran untuk membuat sebuah aplikasi yang dapat memberitahukan sebuah informasi yang paling tepat untuk sebuah wisata yang ada di sumatera utara
+Aplikasi yang saya buat ini ada salah satu aplikasi yang dapat membantu seseorang atau masyarakat luas terutama untuk masyarakan  yaitu adalah apalikasi PEMBANGUN SISTEM INFORMASI PARIWISATA SUMATERA UTARA BERBASIS WEBGIS DENGAN YII FRAMEWORK , apalikasiini  berguna untuk menunjukkan dimana suatu tempat wisata yang terdekat atau kemana yang akan kita jalani, 
+Dan aplikasi dapat menunjuk sebuah informasi yang terbaru yang ada di tempat wisata tersebut
+
+Dan yang perlu saya jelasin dalam apalikasi ini adalah:
+
+1.	Yii Framework
+Yii adalah sebuah source framework menggunakan Bahasa pemrograman PHP yang dibuat oleh Qiang Xuepada tanggal 1 Januari 2008 agar dapat mempermudah kita membuat suatu prongram. Sebelumnya Qiang juga mengembangkan sebuah framework yang bernama prado selama bertahun tahun.Yii secara resmi dirilis untuk memenuhi apa yang di butuhkan para pengguna perangkat lunak berbasis website. dan Beberapa pengguna perangkat lunak banyak merespon positif atas berkembangan nya framework yii
+
+2	Kelebihan Yii Framework
+Banyak library dan fungsi symfony yang sudah tersedia. Bahkan hampir mendekati. Sehingga ada yang mengatakan ” yii adalh bahasa prongram yang dapat di cerna atau mudah di pahami” ini menjadi kelebihan sekaligus kekurangan
+
+3	 Web GIS adalah:
+Geographic Information System (GIS) yang merupakan sistem yang dirancang untuk bekerja dengan data yang tereferensi secara spasial atau terukur dai sudut mana pun atau titik kordinat geografi. WebGIS merupakan aplikasi Geographic Information System (GIS) yang dapat diakses secara online melalui internet/web.
+
+
+4	Pariwisata
+pariwisata adalah suatu kegiatan yang berhubungan langsung  dengan perjalanan rekreasi. Sedangkan pengertian secara umum pariwisata merupakan suatu perjalanan yang dilakukan seseorang untuk sementara waktuyang diselenggarakan dari tempat yang satu dan berpindah ketempat yang lain dengan meninggalkan tempat semula dan dengan suatu perencanaan atau bukan maksud mencari nafkah di tempat yang dikunjunginya,
+
+5	Bahasa Pemrograman
+Bahasa pemograman adalah sebuah instruksi standar untuk memerintah komputer agar mempunyai fungsi tertentu. Berikut ini adalah beberapa contoh bahasa pemrograman yang biasa digunakan :
+
+Dan tujuan yang lebih jelas dari aplikasi ini adaalah:
+1.	Sistem informasi ini dapat mempermudah wisatawan untuk mengetahui pariwisata sumatera utara.
+2.	Sistem informasi ini dapat mempercepat pelayanan dalam hal mengetahui tempat destinasi wisata sumatera utara
+
